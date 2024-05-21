@@ -10,20 +10,24 @@ html {
 
 .page {
   inline-size: 1200px;
+  block-size: 100%;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
 .content {
   display: flex;
+  inline-size: 1140px;
   gap: 30px;
-  justify-content: center;
-  align-items: center;
-  padding-top: 235px;
+  align-items: end;
+  margin-top: -12px;
 }
 
 h1,
