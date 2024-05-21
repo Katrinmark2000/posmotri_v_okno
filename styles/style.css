@@ -10,7 +10,6 @@ html {
 
 .page {
   inline-size: 1200px;
-  block-size: 1500px;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
@@ -22,8 +21,8 @@ html {
   display: flex;
   gap: 30px;
   justify-content: center;
+  align-items: center;
   padding-top: 135px;
-
 }
 
 h1,
