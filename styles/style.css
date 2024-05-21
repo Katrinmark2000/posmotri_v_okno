@@ -15,14 +15,15 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  
 }
 
 .content {
   display: flex;
   gap: 30px;
   justify-content: center;
-  align-self: center;
-  padding-top: 135px;
+  align-items: center;
+  padding-top: 235px;
 }
 
 h1,
